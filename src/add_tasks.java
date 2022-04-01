@@ -1,4 +1,4 @@
-public class additional_tasks {
+public class add_tasks {
     public static void main(String[] args) {
 
         //Дополнительное задание к уроку 2. Переменные
